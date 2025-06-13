@@ -74,6 +74,7 @@ if not df.empty:
 # --- JUDUL & DESKRIPSI APLIKASI ---
 st.title("🩺 Dashboard Analisis Tingkat Stres & Cuaca")
 st.markdown("Visualisasi data smartwatch untuk memahami hubungan antara aktivitas, cuaca, dan tingkat stres.")
+st.markdown("Project ini dibuat oleh Ulil Ikbal dan Fajar Rizki untuk Final Project Mata kuliah Visualisasi Data")
 
 # --- VISUALISASI DATA ---
 if not df.empty:
